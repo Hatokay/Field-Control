@@ -1,0 +1,5 @@
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT78(TO220AB)"; UniqueID = "\JAKJRHHU" ("\JAKJRHHU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "Populated"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "Populated"

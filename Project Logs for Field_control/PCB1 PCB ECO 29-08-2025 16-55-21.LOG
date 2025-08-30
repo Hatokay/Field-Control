@@ -1,0 +1,27 @@
+Change component parameters: Designator = "J3" ("J3"); Footprint = "XHFB9500G"; UniqueID = "\UDKOMWFI" ("\UDKOMWFI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "XFHB9500G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IHLP2020CZER3R3M01"; UniqueID = "\ERYRMHRA\DALHJJMV" ("\ERYRMHRA\DALHJJMV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IHLP2020CZER3R3M01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH1" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\YPTCJMER\HXPBTSCM" ("\YPTCJMER\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH2" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\DSCVBBLL\HXPBTSCM" ("\DSCVBBLL\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH3" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\OXTHBDAO\HXPBTSCM" ("\OXTHBDAO\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH4" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\BWROULVB\HXPBTSCM" ("\BWROULVB\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH5" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\YYLNZYKA\HXPBTSCM" ("\YYLNZYKA\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH6" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\ODXLIOHL\HXPBTSCM" ("\ODXLIOHL\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH7" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\QWHKKKMI\HXPBTSCM" ("\QWHKKKMI\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"

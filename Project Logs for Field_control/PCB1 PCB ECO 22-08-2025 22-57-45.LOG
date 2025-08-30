@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Added Component: Designator=J?(XHFB9500G)
+Added Pin To Net: NetName=+12V Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component *_ECH1 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH2 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH3 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH4 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH5 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH6 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component * Tital_block_1
+Added Member To Class: ClassName=Main Member=Component J2 691101810008
+Added Member To Class: ClassName=Main Member=Component J? XFHB9500G
+Add Class Member: Failed to add class member : Component L1 3.3uH

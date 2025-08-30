@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=INV_12V Pin=Q1-2
+Removed Pin From Net: NetName=+12V Pin=Q1-3
+Removed Member From Class: ClassName=Main Member=Q1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R1-2
+Added Net: Name=NetQ2_1

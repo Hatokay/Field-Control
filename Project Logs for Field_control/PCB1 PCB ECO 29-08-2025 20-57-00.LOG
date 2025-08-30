@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GPIO19 Pin=J6-2
+Removed Pin From Net: NetName=GPIO6 Pin=J6-4
+Removed Pin From Net: NetName=GPIO11 Pin=J6-6
+Removed Pin From Net: NetName=+3V3 Pin=J6-8
+Added Component: Designator=J?(282834-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "282834-8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=GPIO19 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GPIO6 Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GPIO11 Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Member To Class: ClassName=Main Member=Component J? 282834-8

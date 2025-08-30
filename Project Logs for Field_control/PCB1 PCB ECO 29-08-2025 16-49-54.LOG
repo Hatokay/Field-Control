@@ -1,0 +1,120 @@
+Change Component Kind : Designator=Q6_ECH5 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH6 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH7 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Q6_ECH3 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "J3" ("J3"); Footprint = "XHFB9500G"; UniqueID = "\UDKOMWFI" ("\UDKOMWFI")
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "XF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "XFHB9500G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "282834-8"; UniqueID = "\TFQKQPXQ" ("\TFQKQPXQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "282834-8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IHLP2020CZER3R3M01"; UniqueID = "\ERYRMHRA\DALHJJMV" ("\ERYRMHRA\DALHJJMV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "IHLP2020CZER3R3M01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT78(TO220AB)"; UniqueID = "\JAKJRHHU" ("\JAKJRHHU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "Populated"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "Populated"
+Change component parameters: Designator = "Q5_ECH1" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\YPTCJMER\HXPBTSCM" ("\YPTCJMER\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH2" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\DSCVBBLL\HXPBTSCM" ("\DSCVBBLL\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH3" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\OXTHBDAO\HXPBTSCM" ("\OXTHBDAO\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH4" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\BWROULVB\HXPBTSCM" ("\BWROULVB\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH5" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\YYLNZYKA\HXPBTSCM" ("\YYLNZYKA\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH6" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\ODXLIOHL\HXPBTSCM" ("\ODXLIOHL\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5_ECH7" ("Q5"); Footprint = "ON-SEMI SOT 23"; UniqueID = "\QWHKKKMI\HXPBTSCM" ("\QWHKKKMI\HXPBTSCM")
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "FDN335N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH1" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\YPTCJMER\AFREGNED" ("\YPTCJMER\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH2" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\DSCVBBLL\AFREGNED" ("\DSCVBBLL\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH3" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\OXTHBDAO\AFREGNED" ("\OXTHBDAO\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH4" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\BWROULVB\AFREGNED" ("\BWROULVB\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH5" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\YYLNZYKA\AFREGNED" ("\YYLNZYKA\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH6" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\ODXLIOHL\AFREGNED" ("\ODXLIOHL\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6_ECH7" ("Q6"); Footprint = "SOT78(TO220AB)"; UniqueID = "\QWHKKKMI\AFREGNED" ("\QWHKKKMI\AFREGNED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bojack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "IRF530N0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0603"; UniqueID = "\BUBYSDPJ" ("\BUBYSDPJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0603"; UniqueID = "\ZTMCQBLN" ("\ZTMCQBLN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH1" ("R5"); Footprint = "R0603"; UniqueID = "\YPTCJMER\PBTPEYYM" ("\YPTCJMER\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH2" ("R5"); Footprint = "R0603"; UniqueID = "\DSCVBBLL\PBTPEYYM" ("\DSCVBBLL\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH3" ("R5"); Footprint = "R0603"; UniqueID = "\OXTHBDAO\PBTPEYYM" ("\OXTHBDAO\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH4" ("R5"); Footprint = "R0603"; UniqueID = "\BWROULVB\PBTPEYYM" ("\BWROULVB\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH5" ("R5"); Footprint = "R0603"; UniqueID = "\YYLNZYKA\PBTPEYYM" ("\YYLNZYKA\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH6" ("R5"); Footprint = "R0603"; UniqueID = "\ODXLIOHL\PBTPEYYM" ("\ODXLIOHL\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_ECH7" ("R5"); Footprint = "R0603"; UniqueID = "\QWHKKKMI\PBTPEYYM" ("\QWHKKKMI\PBTPEYYM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH1" ("R6"); Footprint = "R0603"; UniqueID = "\YPTCJMER\MSABITSQ" ("\YPTCJMER\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH2" ("R6"); Footprint = "R0603"; UniqueID = "\DSCVBBLL\MSABITSQ" ("\DSCVBBLL\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH3" ("R6"); Footprint = "R0603"; UniqueID = "\OXTHBDAO\MSABITSQ" ("\OXTHBDAO\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH4" ("R6"); Footprint = "R0603"; UniqueID = "\BWROULVB\MSABITSQ" ("\BWROULVB\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH5" ("R6"); Footprint = "R0603"; UniqueID = "\YYLNZYKA\MSABITSQ" ("\YYLNZYKA\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH6" ("R6"); Footprint = "R0603"; UniqueID = "\ODXLIOHL\MSABITSQ" ("\ODXLIOHL\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6_ECH7" ("R6"); Footprint = "R0603"; UniqueID = "\QWHKKKMI\MSABITSQ" ("\QWHKKKMI\MSABITSQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R0603"; UniqueID = "\ERYRMHRA\HVNJIUMN" ("\ERYRMHRA\HVNJIUMN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RC0603FR-0756K2L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603"; UniqueID = "\ERYRMHRA\KJNFNPHO" ("\ERYRMHRA\KJNFNPHO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TI-SOT23"; UniqueID = "\ERYRMHRA\DCYQEHUS" ("\ERYRMHRA\DCYQEHUS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "TPS563200DDCR"; VariantName = "[No Variations]"

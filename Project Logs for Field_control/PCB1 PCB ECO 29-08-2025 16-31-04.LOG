@@ -1,0 +1,28 @@
+Change Component Comment : Designator=C6_WCH1 Old Comment=47uF New Comment=47uF 25V
+Change Component Comment : Designator=C6_WCH2 Old Comment=47uF New Comment=47uF 25V
+Change Component Comment : Designator=C6_WCH3 Old Comment=47uF New Comment=47uF 25V
+Change Component Comment : Designator=C6_WCH4 Old Comment=47uF New Comment=47uF 25V
+Change component parameters: Designator = "C6_WCH1" ("C6"); Footprint = "A768EB476M1ELAE042"; UniqueID = "\VUGLANTE\GYMIQDOT" ("\VUGLANTE\GYMIQDOT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_WCH2" ("C6"); Footprint = "A768EB476M1ELAE042"; UniqueID = "\IUFJZEER\GYMIQDOT" ("\IUFJZEER\GYMIQDOT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_WCH3" ("C6"); Footprint = "A768EB476M1ELAE042"; UniqueID = "\EQXQOYFC\GYMIQDOT" ("\EQXQOYFC\GYMIQDOT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_WCH4" ("C6"); Footprint = "A768EB476M1ELAE042"; UniqueID = "\SXJGGSFP\GYMIQDOT" ("\SXJGGSFP\GYMIQDOT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufaturer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_WCH1" ("R3"); Footprint = "R0603"; UniqueID = "\VUGLANTE\LNMCPPBE" ("\VUGLANTE\LNMCPPBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_WCH2" ("R3"); Footprint = "R0603"; UniqueID = "\IUFJZEER\LNMCPPBE" ("\IUFJZEER\LNMCPPBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_WCH3" ("R3"); Footprint = "R0603"; UniqueID = "\EQXQOYFC\LNMCPPBE" ("\EQXQOYFC\LNMCPPBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_WCH4" ("R3"); Footprint = "R0603"; UniqueID = "\SXJGGSFP\LNMCPPBE" ("\SXJGGSFP\LNMCPPBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"

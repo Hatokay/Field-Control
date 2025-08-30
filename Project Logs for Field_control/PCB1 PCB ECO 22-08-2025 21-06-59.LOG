@@ -1,0 +1,32 @@
+Added Component: Designator=J?(691101810008)
+Add component (AddParameter): Name = "Manufacturer"; Value = "W?rth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "691101810008"; VariantName = "[No Variations]"
+Added Component: Designator=J?(691101810008)
+Add component (AddParameter): Name = "Manufacturer"; Value = "W?rth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "691101810008"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DCI_3 Pin=J?-1
+Added Pin To Net: NetName=PHI_1 Pin=J?-1
+Added Pin To Net: NetName=DCO_3 Pin=J?-2
+Added Pin To Net: NetName=PHO_1 Pin=J?-2
+Added Pin To Net: NetName=DCI_4 Pin=J?-3
+Added Pin To Net: NetName=PHI_2 Pin=J?-3
+Added Pin To Net: NetName=DCO_4 Pin=J?-4
+Added Pin To Net: NetName=PHO_2 Pin=J?-4
+Added Pin To Net: NetName=DCI_1 Pin=J?-5
+Added Pin To Net: NetName=INV_12V Pin=J?-5
+Added Pin To Net: NetName=DCO_1 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=DCI_2 Pin=J?-7
+Added Pin To Net: NetName=DCO_2 Pin=J?-8
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component *_ECH1 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH2 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH3 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH4 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH5 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH6 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component * Tital_block_1
+Added Member To Class: ClassName=Main Member=Component J? 691101810008
+Added Member To Class: ClassName=Main Member=Component J? 691101810008
+Add Class Member: Failed to add class member : Component L1 3.3uH

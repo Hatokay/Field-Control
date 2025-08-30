@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=DCI_3 Pin=J3-1
+Removed Pin From Net: NetName=DCO_3 Pin=J3-2
+Removed Pin From Net: NetName=DCI_4 Pin=J3-3
+Removed Pin From Net: NetName=DCO_4 Pin=J3-4
+Removed Pin From Net: NetName=INV_12V Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Change Component Footprint: Designator=J2 Old Footprint=691101810008 New Footprint=282834-8
+Change Component Comment : Designator=J2 Old Comment=691101810008 New Comment=282834-8
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change component parameters: Designator = "J2" ("J2"); Footprint = "691101810008"; UniqueID = "\QSUVZWGX" ("\QSUVZWGX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturter P/N"; Value = "282834-8"; VariantName = "[No Variations]"
+Added Component: Designator=C6_WCH1(A768EB476M1ELAE042)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Added Component: Designator=C6_WCH2(A768EB476M1ELAE042)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Added Component: Designator=C6_WCH3(A768EB476M1ELAE042)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Added Component: Designator=C6_WCH4(A768EB476M1ELAE042)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "A768EB476M1ELAE042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Added Component: Designator=C7_WCH1(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C7_WCH2(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C7_WCH3(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C7_WCH4(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C8_WCH1(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C8_WCH2(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C8_WCH3(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=C8_WCH4(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Added Component: Designator=J4(282834-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturter P/N"; Value = "282834-8"; VariantName = "[No Variations]"
+Added Component: Designator=J?(282834-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturter P/N"; Value = "282834-8"; VariantName = "[No Variations]"
+Added Component: Designator=R?_WCH1(R0603)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Added Component: Designator=R?_WCH2(R0603)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Added Component: Designator=R?_WCH3(R0603)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Added Component: Designator=R?_WCH4(R0603)
+Add component (AddParameter): Name = "Manufactrurer P/N"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Added Component: Designator=U2_WCH1(TI-8-SO PowerPad)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "DRV8871DDAR"; VariantName = "[No Variations]"
+Added Component: Designator=U2_WCH2(TI-8-SO PowerPad)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "DRV8871DDAR"; VariantName = "[No Variations]"
+Added Component: Designator=U2_WCH3(TI-8-SO PowerPad)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "DRV8871DDAR"; VariantName = "[No Variations]"
+Added Component: Designator=U2_WCH4(TI-8-SO PowerPad)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "DRV8871DDAR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C6_WCH1-1
+Added Pin To Net: NetName=GND Pin=C6_WCH1-2
+Added Pin To Net: NetName=+12V Pin=C6_WCH2-1
+Added Pin To Net: NetName=GND Pin=C6_WCH2-2
+Added Pin To Net: NetName=+12V Pin=C6_WCH3-1
+Added Pin To Net: NetName=GND Pin=C6_WCH3-2
+Added Pin To Net: NetName=+12V Pin=C6_WCH4-1
+Added Pin To Net: NetName=GND Pin=C6_WCH4-2
+Added Pin To Net: NetName=GND Pin=C7_WCH1-1
+Added Pin To Net: NetName=+12V Pin=C7_WCH1-2
+Added Pin To Net: NetName=GND Pin=C7_WCH2-1
+Added Pin To Net: NetName=+12V Pin=C7_WCH2-2
+Added Pin To Net: NetName=GND Pin=C7_WCH3-1
+Added Pin To Net: NetName=+12V Pin=C7_WCH3-2
+Added Pin To Net: NetName=GND Pin=C7_WCH4-1
+Added Pin To Net: NetName=+12V Pin=C7_WCH4-2
+Added Pin To Net: NetName=GND Pin=C8_WCH1-1
+Added Pin To Net: NetName=+12V Pin=C8_WCH1-2
+Added Pin To Net: NetName=GND Pin=C8_WCH2-1
+Added Pin To Net: NetName=+12V Pin=C8_WCH2-2
+Added Pin To Net: NetName=GND Pin=C8_WCH3-1
+Added Pin To Net: NetName=+12V Pin=C8_WCH3-2
+Added Pin To Net: NetName=GND Pin=C8_WCH4-1
+Added Pin To Net: NetName=+12V Pin=C8_WCH4-2
+Added Pin To Net: NetName=DCI_3 Pin=J4-1
+Added Pin To Net: NetName=DCO_3 Pin=J4-2
+Added Pin To Net: NetName=DCI_4 Pin=J4-3
+Added Pin To Net: NetName=DCO_4 Pin=J4-4
+Added Pin To Net: NetName=INV_12V Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=GND Pin=R?_WCH1-1
+Added Pin To Net: NetName=GND Pin=R?_WCH2-1
+Added Pin To Net: NetName=GND Pin=R?_WCH3-1
+Added Pin To Net: NetName=GND Pin=R?_WCH4-1
+Added Pin To Net: NetName=GND Pin=U2_WCH1-1
+Added Pin To Net: NetName=+12V Pin=U2_WCH1-5
+Added Pin To Net: NetName=GND Pin=U2_WCH1-7
+Added Pin To Net: NetName=GND Pin=U2_WCH1-9
+Added Pin To Net: NetName=GND Pin=U2_WCH2-1
+Added Pin To Net: NetName=+12V Pin=U2_WCH2-5
+Added Pin To Net: NetName=GND Pin=U2_WCH2-7
+Added Pin To Net: NetName=GND Pin=U2_WCH2-9
+Added Pin To Net: NetName=GND Pin=U2_WCH3-1
+Added Pin To Net: NetName=+12V Pin=U2_WCH3-5
+Added Pin To Net: NetName=GND Pin=U2_WCH3-7
+Added Pin To Net: NetName=GND Pin=U2_WCH3-9
+Added Pin To Net: NetName=GND Pin=U2_WCH4-1
+Added Pin To Net: NetName=+12V Pin=U2_WCH4-5
+Added Pin To Net: NetName=GND Pin=U2_WCH4-7
+Added Pin To Net: NetName=GND Pin=U2_WCH4-9
+Added Pin To Net: NetName=NetR?_WCH1_2 Pin=R?_WCH1-2
+Added Pin To Net: NetName=NetR?_WCH1_2 Pin=U2_WCH1-4
+Added Net: Name=NetR?_WCH1_2
+Added Pin To Net: NetName=NetR?_WCH2_2 Pin=R?_WCH2-2
+Added Pin To Net: NetName=NetR?_WCH2_2 Pin=U2_WCH2-4
+Added Net: Name=NetR?_WCH2_2
+Added Pin To Net: NetName=NetR?_WCH3_2 Pin=R?_WCH3-2
+Added Pin To Net: NetName=NetR?_WCH3_2 Pin=U2_WCH3-4
+Added Net: Name=NetR?_WCH3_2
+Added Pin To Net: NetName=NetR?_WCH4_2 Pin=R?_WCH4-2
+Added Pin To Net: NetName=NetR?_WCH4_2 Pin=U2_WCH4-4
+Added Net: Name=NetR?_WCH4_2
+Added Pin To Net: NetName=SOL1_1 Pin=J?-1
+Added Pin To Net: NetName=SOL1_1 Pin=U2_WCH1-6
+Added Net: Name=SOL1_1
+Added Pin To Net: NetName=SOL1_2 Pin=J?-2
+Added Pin To Net: NetName=SOL1_2 Pin=U2_WCH1-8
+Added Net: Name=SOL1_2
+Added Pin To Net: NetName=SOL2_1 Pin=J?-3
+Added Pin To Net: NetName=SOL2_1 Pin=U2_WCH2-6
+Added Net: Name=SOL2_1
+Added Pin To Net: NetName=SOL2_2 Pin=J?-4
+Added Pin To Net: NetName=SOL2_2 Pin=U2_WCH2-8
+Added Net: Name=SOL2_2
+Added Pin To Net: NetName=SOL3_1 Pin=J?-5
+Added Pin To Net: NetName=SOL3_1 Pin=U2_WCH3-6
+Added Net: Name=SOL3_1
+Added Pin To Net: NetName=SOL3_2 Pin=J?-6
+Added Pin To Net: NetName=SOL3_2 Pin=U2_WCH3-8
+Added Net: Name=SOL3_2
+Added Pin To Net: NetName=SOL4_1 Pin=J?-7
+Added Pin To Net: NetName=SOL4_1 Pin=U2_WCH4-6
+Added Net: Name=SOL4_1
+Added Pin To Net: NetName=SOL4_2 Pin=J?-8
+Added Pin To Net: NetName=SOL4_2 Pin=U2_WCH4-8
+Added Net: Name=SOL4_2
+Added Pin To Net: NetName=WCH1_1 Pin=U2_WCH1-3
+Added Net: Name=WCH1_1
+Added Pin To Net: NetName=WCH1_2 Pin=U2_WCH1-2
+Added Net: Name=WCH1_2
+Added Pin To Net: NetName=WCH2_1 Pin=U2_WCH2-3
+Added Net: Name=WCH2_1
+Added Pin To Net: NetName=WCH2_2 Pin=U2_WCH2-2
+Added Net: Name=WCH2_2
+Added Pin To Net: NetName=WCH3_1 Pin=U2_WCH3-3
+Added Net: Name=WCH3_1
+Added Pin To Net: NetName=WCH3_2 Pin=U2_WCH3-2
+Added Net: Name=WCH3_2
+Added Pin To Net: NetName=WCH4_1 Pin=U2_WCH4-3
+Added Net: Name=WCH4_1
+Added Pin To Net: NetName=WCH4_2 Pin=U2_WCH4-2
+Added Net: Name=WCH4_2
+Change Class Name : Old Net Name=U_PS New Net Name=Power supply
+Added Class: Name=WCH1
+Added Class: Name=WCH2
+Added Class: Name=WCH3
+Added Class: Name=WCH4
+Added Class: Name=Water Channel
+Add Class Member: Failed to add class member : Component *_ECH1 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH2 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH3 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH4 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH5 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH6 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component * Tital_block_1
+Added Member To Class: ClassName=Main Member=Component J3 XFHB9500G
+Added Member To Class: ClassName=Main Member=Component J4 282834-8
+Added Member To Class: ClassName=Main Member=Component J? 282834-8
+Add Class Member: Failed to add class member : Component L1 3.3uH

@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Kind : Designator=U3 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=J1(2x20 2.54mm header)
+Added Pin To Net: NetName=+5V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-25
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-39
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component *_ECH1 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH2 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH3 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH4 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH5 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH6 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_ECH7 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_WCH1 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_WCH2 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_WCH3 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component *_WCH4 (*) Tital_block_1
+Add Class Member: Failed to add class member : Component * Tital_block_1
+Add Class Member: Failed to add class member : Component L1 3.3uH

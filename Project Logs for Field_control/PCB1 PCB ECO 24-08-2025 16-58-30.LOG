@@ -1,0 +1,22 @@
+Added Component: Designator=L1(IHLP2020CZER3R3M01)
+Added Pin To Net: NetName=ECH1 Pin=J1-3
+Added Pin To Net: NetName=ECH2 Pin=J1-5
+Added Pin To Net: NetName=ECH3 Pin=J1-7
+Added Pin To Net: NetName=WCH4_2 Pin=J1-8
+Added Pin To Net: NetName=Inveter_ch Pin=J1-10
+Added Pin To Net: NetName=ECH4 Pin=J1-11
+Added Pin To Net: NetName=ECH5 Pin=J1-13
+Added Pin To Net: NetName=ECH6 Pin=J1-15
+Added Pin To Net: NetName=ECH7 Pin=J1-19
+Added Pin To Net: NetName=WCH1_1 Pin=J1-21
+Added Pin To Net: NetName=WCH1_2 Pin=J1-23
+Added Pin To Net: NetName=WCH2_1 Pin=J1-29
+Added Pin To Net: NetName=WCH2_2 Pin=J1-31
+Added Pin To Net: NetName=WCH3_1 Pin=J1-33
+Added Pin To Net: NetName=WCH3_2 Pin=J1-35
+Added Pin To Net: NetName=WCH4_1 Pin=J1-37
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Member To Class: ClassName=Main Member=Component J1 2x20 header 2.54mm
+Added Member To Class: ClassName=Power supply Member=Component L1 3.3uH 5A
+Added Member To Class: ClassName=Main Member=Component U3 raspberry pi 2

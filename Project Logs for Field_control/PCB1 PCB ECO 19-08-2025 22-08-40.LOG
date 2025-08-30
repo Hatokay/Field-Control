@@ -1,0 +1,264 @@
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "KGM15BR71E104KT"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "CC0603MRX5R6BB106"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "CC0603MRX5R6BB106"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_1(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_2(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_3(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_4(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_61(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Electrical Channels_62(PCBComponent_1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "1N5392-E3/54"; VariantName = "[No Variations]"
+Added Component: Designator=J1(2x20 2.54mm header)
+Added Component: Designator=Q1(ON-SEMI SOT 23)
+Added Component: Designator=Q2(SOT78(TO220AB))
+Added Component: Designator=Q5_U_Electrical Channels_1(ON-SEMI SOT 23)
+Added Component: Designator=Q5_U_Electrical Channels_2(ON-SEMI SOT 23)
+Added Component: Designator=Q5_U_Electrical Channels_3(ON-SEMI SOT 23)
+Added Component: Designator=Q5_U_Electrical Channels_4(ON-SEMI SOT 23)
+Added Component: Designator=Q5_U_Electrical Channels_61(ON-SEMI SOT 23)
+Added Component: Designator=Q5_U_Electrical Channels_62(ON-SEMI SOT 23)
+Added Component: Designator=Q6_U_Electrical Channels_1(SOT78(TO220AB))
+Added Component: Designator=Q6_U_Electrical Channels_2(SOT78(TO220AB))
+Added Component: Designator=Q6_U_Electrical Channels_3(SOT78(TO220AB))
+Added Component: Designator=Q6_U_Electrical Channels_4(SOT78(TO220AB))
+Added Component: Designator=Q6_U_Electrical Channels_61(SOT78(TO220AB))
+Added Component: Designator=Q6_U_Electrical Channels_62(SOT78(TO220AB))
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R5_U_Electrical Channels_1(R0603)
+Added Component: Designator=R5_U_Electrical Channels_2(R0603)
+Added Component: Designator=R5_U_Electrical Channels_3(R0603)
+Added Component: Designator=R5_U_Electrical Channels_4(R0603)
+Added Component: Designator=R5_U_Electrical Channels_61(R0603)
+Added Component: Designator=R5_U_Electrical Channels_62(R0603)
+Added Component: Designator=R6_U_Electrical Channels_1(R0603)
+Added Component: Designator=R6_U_Electrical Channels_2(R0603)
+Added Component: Designator=R6_U_Electrical Channels_3(R0603)
+Added Component: Designator=R6_U_Electrical Channels_4(R0603)
+Added Component: Designator=R6_U_Electrical Channels_61(R0603)
+Added Component: Designator=R6_U_Electrical Channels_62(R0603)
+Added Component: Designator=R7(R0603)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=REL1_U_Electrical Channels_1(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=REL1_U_Electrical Channels_2(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=REL1_U_Electrical Channels_3(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=REL1_U_Electrical Channels_4(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=REL1_U_Electrical Channels_61(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=REL1_U_Electrical Channels_62(ALQ3F12)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "ALQ3F12"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TI-SOT23)
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=R7-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=C3-2
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_1-1
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_2-1
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_3-1
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_4-1
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_61-1
+Added Pin To Net: NetName=+12V Pin=D1_U_Electrical Channels_62-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_1-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_2-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_3-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_4-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_61-1
+Added Pin To Net: NetName=+12V Pin=REL1_U_Electrical Channels_62-1
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Pin To Net: NetName=+12V Pin=U1-5
+Added Net: Name=+12V
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_1-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_2-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_3-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_4-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_61-2
+Added Pin To Net: NetName=GND Pin=Q5_U_Electrical Channels_62-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_1-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_2-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_3-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_4-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_61-2
+Added Pin To Net: NetName=GND Pin=Q6_U_Electrical Channels_62-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_1-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_2-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_3-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_4-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_61-1
+Added Pin To Net: NetName=GND Pin=R6_U_Electrical Channels_62-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Inveter_ch Pin=R1-1
+Added Pin To Net: NetName=Inveter_ch Pin=R2-2
+Added Net: Name=Inveter_ch
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_1-4
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_2-4
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_3-4
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_4-4
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_61-4
+Added Pin To Net: NetName=Mains_GND Pin=REL1_U_Electrical Channels_62-4
+Added Net: Name=Mains_GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_1_2 Pin=D1_U_Electrical Channels_1-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_1_2 Pin=Q5_U_Electrical Channels_1-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_1_2 Pin=Q6_U_Electrical Channels_1-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_1_2 Pin=REL1_U_Electrical Channels_1-2
+Added Net: Name=NetD1_U_Electrical Channels_1_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_2_2 Pin=D1_U_Electrical Channels_2-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_2_2 Pin=Q5_U_Electrical Channels_2-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_2_2 Pin=Q6_U_Electrical Channels_2-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_2_2 Pin=REL1_U_Electrical Channels_2-2
+Added Net: Name=NetD1_U_Electrical Channels_2_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_3_2 Pin=D1_U_Electrical Channels_3-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_3_2 Pin=Q5_U_Electrical Channels_3-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_3_2 Pin=Q6_U_Electrical Channels_3-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_3_2 Pin=REL1_U_Electrical Channels_3-2
+Added Net: Name=NetD1_U_Electrical Channels_3_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_4_2 Pin=D1_U_Electrical Channels_4-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_4_2 Pin=Q5_U_Electrical Channels_4-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_4_2 Pin=Q6_U_Electrical Channels_4-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_4_2 Pin=REL1_U_Electrical Channels_4-2
+Added Net: Name=NetD1_U_Electrical Channels_4_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_61_2 Pin=D1_U_Electrical Channels_61-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_61_2 Pin=Q5_U_Electrical Channels_61-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_61_2 Pin=Q6_U_Electrical Channels_61-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_61_2 Pin=REL1_U_Electrical Channels_61-2
+Added Net: Name=NetD1_U_Electrical Channels_61_2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_62_2 Pin=D1_U_Electrical Channels_62-2
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_62_2 Pin=Q5_U_Electrical Channels_62-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_62_2 Pin=Q6_U_Electrical Channels_62-3
+Added Pin To Net: NetName=NetD1_U_Electrical Channels_62_2 Pin=REL1_U_Electrical Channels_62-2
+Added Net: Name=NetD1_U_Electrical Channels_62_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_1_1 Pin=Q5_U_Electrical Channels_1-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_1_1 Pin=Q6_U_Electrical Channels_1-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_1_1 Pin=R5_U_Electrical Channels_1-2
+Added Net: Name=NetQ5_U_Electrical Channels_1_1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_2_1 Pin=Q5_U_Electrical Channels_2-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_2_1 Pin=Q6_U_Electrical Channels_2-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_2_1 Pin=R5_U_Electrical Channels_2-2
+Added Net: Name=NetQ5_U_Electrical Channels_2_1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_3_1 Pin=Q5_U_Electrical Channels_3-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_3_1 Pin=Q6_U_Electrical Channels_3-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_3_1 Pin=R5_U_Electrical Channels_3-2
+Added Net: Name=NetQ5_U_Electrical Channels_3_1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_4_1 Pin=Q5_U_Electrical Channels_4-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_4_1 Pin=Q6_U_Electrical Channels_4-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_4_1 Pin=R5_U_Electrical Channels_4-2
+Added Net: Name=NetQ5_U_Electrical Channels_4_1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_61_1 Pin=Q5_U_Electrical Channels_61-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_61_1 Pin=Q6_U_Electrical Channels_61-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_61_1 Pin=R5_U_Electrical Channels_61-2
+Added Net: Name=NetQ5_U_Electrical Channels_61_1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_62_1 Pin=Q5_U_Electrical Channels_62-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_62_1 Pin=Q6_U_Electrical Channels_62-1
+Added Pin To Net: NetName=NetQ5_U_Electrical Channels_62_1 Pin=R5_U_Electrical Channels_62-2
+Added Net: Name=NetQ5_U_Electrical Channels_62_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_1_1 Pin=R5_U_Electrical Channels_1-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_1_1 Pin=R6_U_Electrical Channels_1-2
+Added Net: Name=NetR5_U_Electrical Channels_1_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_2_1 Pin=R5_U_Electrical Channels_2-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_2_1 Pin=R6_U_Electrical Channels_2-2
+Added Net: Name=NetR5_U_Electrical Channels_2_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_3_1 Pin=R5_U_Electrical Channels_3-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_3_1 Pin=R6_U_Electrical Channels_3-2
+Added Net: Name=NetR5_U_Electrical Channels_3_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_4_1 Pin=R5_U_Electrical Channels_4-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_4_1 Pin=R6_U_Electrical Channels_4-2
+Added Net: Name=NetR5_U_Electrical Channels_4_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_61_1 Pin=R5_U_Electrical Channels_61-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_61_1 Pin=R6_U_Electrical Channels_61-2
+Added Net: Name=NetR5_U_Electrical Channels_61_1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_62_1 Pin=R5_U_Electrical Channels_62-1
+Added Pin To Net: NetName=NetR5_U_Electrical Channels_62_1 Pin=R6_U_Electrical Channels_62-2
+Added Net: Name=NetR5_U_Electrical Channels_62_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-4
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_1_3 Pin=REL1_U_Electrical Channels_1-3
+Added Net: Name=NetREL1_U_Electrical Channels_1_3
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_2_3 Pin=REL1_U_Electrical Channels_2-3
+Added Net: Name=NetREL1_U_Electrical Channels_2_3
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_3_3 Pin=REL1_U_Electrical Channels_3-3
+Added Net: Name=NetREL1_U_Electrical Channels_3_3
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_4_3 Pin=REL1_U_Electrical Channels_4-3
+Added Net: Name=NetREL1_U_Electrical Channels_4_3
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_61_3 Pin=REL1_U_Electrical Channels_61-3
+Added Net: Name=NetREL1_U_Electrical Channels_61_3
+Added Pin To Net: NetName=NetREL1_U_Electrical Channels_62_3 Pin=REL1_U_Electrical Channels_62-3
+Added Net: Name=NetREL1_U_Electrical Channels_62_3
+Added Class: Name=Main
+Added Class: Name=U_Electrical Channels_1
+Added Class: Name=U_Electrical Channels_2
+Added Class: Name=U_Electrical Channels_3
+Added Class: Name=U_Electrical Channels_4
+Added Class: Name=U_Electrical Channels_61
+Added Class: Name=U_Electrical Channels_62
+Added Class: Name=U_PS
+Added Class: Name=Electrical Channels

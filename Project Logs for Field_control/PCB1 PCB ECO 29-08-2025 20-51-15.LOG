@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Added Pin To Net: NetName=GPIO26 Pin=J6-1
+Added Pin To Net: NetName=GPIO19 Pin=J6-2
+Added Pin To Net: NetName=GPIO13 Pin=J6-3
+Added Pin To Net: NetName=GPIO6 Pin=J6-4
+Added Pin To Net: NetName=GPIO5 Pin=J6-5
+Added Pin To Net: NetName=GPIO11 Pin=J6-6
+Added Pin To Net: NetName=GPIO9 Pin=J6-7
+Added Pin To Net: NetName=+3V3 Pin=J6-8
