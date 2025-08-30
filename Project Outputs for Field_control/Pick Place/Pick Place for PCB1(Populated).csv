@@ -1,16 +1,18 @@
 Altium Designer Pick and Place Locations
-C:\Users\hatok\Desktop\EE\HW\Shof HW\Field Control PCB\Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).csv
+C:\Users\hatok\Desktop\EE\HW\Shof HW\Shof control\Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       29/08/25
-Time:       17:44
-Revision:   Not in VersionControl
+Date:       30/08/25
+Time:       15:17
+Revision:   9b0482370c24c2b06976801442b54950c14bea97
 Variant:    Populated
 Units used: mm
 
 "Designator","Comment","Layer","Center-X(mm)","Center-Y(mm)","Rotation"
+"J7","282834-8","TopLayer","167.4000","48.2100","270"
+"J6","282834-8","TopLayer","167.4000","70.6700","270"
 "U2_WCH4","DRV8871DDAR","TopLayer","114.2500","69.5500","90"
 "U2_WCH3","DRV8871DDAR","TopLayer","93.9500","69.5500","90"
 "U2_WCH2","DRV8871DDAR","TopLayer","73.6500","69.5500","90"
@@ -31,7 +33,7 @@ Units used: mm
 "C6_WCH3","47uF 25V","TopLayer","105.3000","69.8000","270"
 "C6_WCH2","47uF 25V","TopLayer","85.0000","69.8000","270"
 "C6_WCH1","47uF 25V","TopLayer","64.7000","69.8000","270"
-"U1","TPS563200DDCR","TopLayer","26.8500","73.6610","180"
+"U1","TPS563200DDCR","TopLayer","26.8500","62.6610","180"
 "REL1_ECH7","ALQ3F12","TopLayer","138.6103","25.5703","0"
 "REL1_ECH6","ALQ3F12","TopLayer","118.6103","25.5703","0"
 "REL1_ECH5","ALQ3F12","TopLayer","98.6103","25.5703","0"
@@ -39,8 +41,8 @@ Units used: mm
 "REL1_ECH3","ALQ3F12","TopLayer","58.6103","25.5703","0"
 "REL1_ECH2","ALQ3F12","TopLayer","38.6103","25.5703","0"
 "REL1_ECH1","ALQ3F12","TopLayer","18.6103","25.5703","0"
-"R8","10K","TopLayer","32.7000","85.7000","180"
-"R7","56K2","TopLayer","32.7000","83.2000","0"
+"R8","10K","TopLayer","32.7000","74.7000","180"
+"R7","56K2","TopLayer","32.7000","72.2000","0"
 "R6_ECH7","10K","TopLayer","147.4003","43.4603","180"
 "R6_ECH6","10K","TopLayer","127.4003","43.4603","180"
 "R6_ECH5","10K","TopLayer","107.4003","43.4603","180"
@@ -65,10 +67,10 @@ Units used: mm
 "Q5_ECH2","FDN335N","TopLayer","46.9003","37.9603","90"
 "Q5_ECH1","FDN335N","TopLayer","26.9003","37.9603","90"
 "Q2","IRF530N0-Bojack","TopLayer","155.5000","30.1803","270"
-"L1","3.3uH 5A","TopLayer","33.4000","78.6930","270"
+"L1","3.3uH 5A","TopLayer","33.4000","67.6930","270"
 "J5","282834-8","TopLayer","86.1300","83.8000","0"
 "J4","691101810008","TopLayer","126.2003","8.1003","0"
-"J3","XFHB9500G","TopLayer","14.5000","76.5000","90"
+"J3","XFHB9500G","TopLayer","11.5000","54.5000","90"
 "J2","691101810008","TopLayer","46.2003","8.1003","0"
 "D1_ECH7","1N5392","TopLayer","138.6103","37.5603","0"
 "D1_ECH6","1N5392","TopLayer","118.6103","37.5603","0"
@@ -77,8 +79,8 @@ Units used: mm
 "D1_ECH3","1N5392","TopLayer","58.6103","37.5603","0"
 "D1_ECH2","1N5392","TopLayer","38.6103","37.5603","0"
 "D1_ECH1","1N5392","TopLayer","18.6103","37.5603","0"
-"C5","10uF","TopLayer","37.7000","79.9000","90"
-"C4","10uF","TopLayer","40.2000","79.9000","90"
-"C3","10uF","TopLayer","26.8000","77.0000","0"
-"C2","10uF","TopLayer","26.8000","79.9000","0"
-"C1","0.1uF","TopLayer","34.5210","74.3000","180"
+"C5","10uF","TopLayer","37.7000","68.9000","90"
+"C4","10uF","TopLayer","40.2000","68.9000","90"
+"C3","10uF","TopLayer","26.8000","66.0000","0"
+"C2","10uF","TopLayer","26.8000","68.9000","0"
+"C1","0.1uF","TopLayer","34.5210","63.3000","180"

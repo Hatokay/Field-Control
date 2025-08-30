@@ -2,10 +2,14 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB1.GBO
+Generating : Bottom Paste
+      File : PCB1.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -36,42 +40,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB1.GTO
+Generating : Bottom Mask
+      File : PCB1.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Mask
 
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : PWR
-      File : PCB1.GP2
-
-    Adding Layer      : PWR
+    Adding Layer      : Bottom Copper
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D62
 *************************************************************
 
 *************************************************************
@@ -106,27 +98,33 @@ Used DCodes :
     D43
     D44
     D45
+    D46
 *************************************************************
 
 *************************************************************
-Generating : GND
-      File : PCB1.GP1
+Generating : Bottom Overlay
+      File : PCB1.GBO
 
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -139,8 +137,8 @@ Generating : Bottom Copper
 
 
 Used DCodes :
-    D37
-    D61
+    D40
+    D60
     D62
     D63
     D64
@@ -152,20 +150,53 @@ Used DCodes :
     D70
     D71
     D72
+    D73
+    D74
+    D86
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB1.GBP
+Generating : PWR
+      File : PCB1.GP2
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Copper
+    Adding Layer      : PWR
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : PCB1.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -178,8 +209,7 @@ Generating : Top Copper
 
 
 Used DCodes :
-    D37
-    D46
+    D40
     D47
     D48
     D49
@@ -206,32 +236,8 @@ Used DCodes :
     D70
     D71
     D72
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : PCB1.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D61
+    D73
+    D74
 *************************************************************
 
 *************************************************************
@@ -240,6 +246,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D84
+    D87
 *************************************************************
 

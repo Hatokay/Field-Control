@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\hatok\Desktop\EE\HW\Shof HW\Field Control PCB\PCB1.PcbDoc
-Date     : 29/08/2025
-Time     : 21:10:28
+PCB File : C:\Users\hatok\Desktop\EE\HW\Shof HW\Shof control\PCB1.PcbDoc
+Date     : 30/08/2025
+Time     : 23:23:15
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -72,4 +72,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

@@ -43,7 +43,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
-CurrentVariant=Populated
 
 [Preferences]
 PrefsVaultGUID=
@@ -156,122 +155,165 @@ UniqueID=E60A9464-C6FB-4925-9E6A-00077B935DD2
 Description=Populated
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
-Variation1=Designator=Q2|UniqueId=\JAKJRHHU|Kind=0|AlternatePart= 
-Variation2=Designator=Q6_ECH1|UniqueId=\YPTCJMER\AFREGNED|Kind=1|AlternatePart= 
-Variation3=Designator=Q6_ECH2|UniqueId=\DSCVBBLL\AFREGNED|Kind=1|AlternatePart= 
-Variation4=Designator=Q6_ECH3|UniqueId=\OXTHBDAO\AFREGNED|Kind=1|AlternatePart= 
-Variation5=Designator=Q6_ECH4|UniqueId=\BWROULVB\AFREGNED|Kind=1|AlternatePart= 
-Variation6=Designator=Q6_ECH5|UniqueId=\YYLNZYKA\AFREGNED|Kind=1|AlternatePart= 
-Variation7=Designator=Q6_ECH6|UniqueId=\ODXLIOHL\AFREGNED|Kind=1|AlternatePart= 
-Variation8=Designator=U?|UniqueId=\OXHTNUUU|Kind=1|AlternatePart= 
-Variation9=Designator=Q6_ECH7|UniqueId=\QWHKKKMI\AFREGNED|Kind=1|AlternatePart= 
-Variation10=Designator=J1|UniqueId=\SPQTUGEO|Kind=1|AlternatePart= 
+VariationCount=9
+Variation1=Designator=Q6_ECH1|UniqueId=\YPTCJMER\AFREGNED|Kind=1|AlternatePart= 
+Variation2=Designator=Q6_ECH2|UniqueId=\DSCVBBLL\AFREGNED|Kind=1|AlternatePart= 
+Variation3=Designator=Q6_ECH3|UniqueId=\OXTHBDAO\AFREGNED|Kind=1|AlternatePart= 
+Variation4=Designator=Q6_ECH4|UniqueId=\BWROULVB\AFREGNED|Kind=1|AlternatePart= 
+Variation5=Designator=Q6_ECH5|UniqueId=\YYLNZYKA\AFREGNED|Kind=1|AlternatePart= 
+Variation6=Designator=Q6_ECH6|UniqueId=\ODXLIOHL\AFREGNED|Kind=1|AlternatePart= 
+Variation7=Designator=U3|UniqueId=\OXHTNUUU|Kind=1|AlternatePart= 
+Variation8=Designator=Q6_ECH7|UniqueId=\QWHKKKMI\AFREGNED|Kind=1|AlternatePart= 
+Variation9=Designator=J1|UniqueId=\SPQTUGEO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=90408800-E7BC-4D88-9893-CA4D801830FC
+Description=JLC_PCB
+AllowFabrication=0
+ParameterCount=0
+VariationCount=28
+Variation1=Designator=J3|UniqueId=\UDKOMWFI|Kind=1|AlternatePart= 
+Variation2=Designator=J2|UniqueId=\URLAQXMR|Kind=1|AlternatePart= 
+Variation3=Designator=J4|UniqueId=\RXEQRXQO|Kind=1|AlternatePart= 
+Variation4=Designator=J5|UniqueId=\TFQKQPXQ|Kind=1|AlternatePart= 
+Variation5=Designator=J7|UniqueId=\LOOTEMIM|Kind=1|AlternatePart= 
+Variation6=Designator=J6|UniqueId=\AWYYSSKN|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\SPQTUGEO|Kind=1|AlternatePart= 
+Variation8=Designator=REL1_ECH1|UniqueId=\YPTCJMER\MNDSCZGU|Kind=1|AlternatePart= 
+Variation9=Designator=D1_ECH1|UniqueId=\YPTCJMER\UYIJWURG|Kind=1|AlternatePart= 
+Variation10=Designator=Q6_ECH1|UniqueId=\YPTCJMER\AFREGNED|Kind=1|AlternatePart= 
+Variation11=Designator=REL1_ECH2|UniqueId=\DSCVBBLL\MNDSCZGU|Kind=1|AlternatePart= 
+Variation12=Designator=D1_ECH2|UniqueId=\DSCVBBLL\UYIJWURG|Kind=1|AlternatePart= 
+Variation13=Designator=Q6_ECH2|UniqueId=\DSCVBBLL\AFREGNED|Kind=1|AlternatePart= 
+Variation14=Designator=REL1_ECH3|UniqueId=\OXTHBDAO\MNDSCZGU|Kind=1|AlternatePart= 
+Variation15=Designator=D1_ECH3|UniqueId=\OXTHBDAO\UYIJWURG|Kind=1|AlternatePart= 
+Variation16=Designator=Q6_ECH3|UniqueId=\OXTHBDAO\AFREGNED|Kind=1|AlternatePart= 
+Variation17=Designator=REL1_ECH4|UniqueId=\BWROULVB\MNDSCZGU|Kind=1|AlternatePart= 
+Variation18=Designator=D1_ECH4|UniqueId=\BWROULVB\UYIJWURG|Kind=1|AlternatePart= 
+Variation19=Designator=Q6_ECH4|UniqueId=\BWROULVB\AFREGNED|Kind=1|AlternatePart= 
+Variation20=Designator=REL1_ECH5|UniqueId=\YYLNZYKA\MNDSCZGU|Kind=1|AlternatePart= 
+Variation21=Designator=D1_ECH5|UniqueId=\YYLNZYKA\UYIJWURG|Kind=1|AlternatePart= 
+Variation22=Designator=Q6_ECH5|UniqueId=\YYLNZYKA\AFREGNED|Kind=1|AlternatePart= 
+Variation23=Designator=REL1_ECH6|UniqueId=\ODXLIOHL\MNDSCZGU|Kind=1|AlternatePart= 
+Variation24=Designator=D1_ECH6|UniqueId=\ODXLIOHL\UYIJWURG|Kind=1|AlternatePart= 
+Variation25=Designator=Q6_ECH6|UniqueId=\ODXLIOHL\AFREGNED|Kind=1|AlternatePart= 
+Variation26=Designator=REL1_ECH7|UniqueId=\QWHKKKMI\MNDSCZGU|Kind=1|AlternatePart= 
+Variation27=Designator=D1_ECH7|UniqueId=\QWHKKKMI\UYIJWURG|Kind=1|AlternatePart= 
+Variation28=Designator=Q6_ECH7|UniqueId=\QWHKKKMI\AFREGNED|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Field_control\BOM\Bill of Materials-Field_control(Populated).xlsx
+DocumentPath=Project Outputs for Field_control\BOM\Bill of Materials-Field_control(JLC_PCB).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Field_control\BOM\Bill of Materials-Field_control.xlsx
+DocumentPath=Project Outputs for Field_control\BOM\Bill of Materials-Field_control(Populated).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Field_control\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for Field_control\BOM\Bill of Materials-Field_control.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.DRR
+DocumentPath=Project Outputs for Field_control\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.EXTREP
+DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBL
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBO
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBP
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBS
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GM
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GP1
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GP2
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTL
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTO
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTP
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTS
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.LDP
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Field_control\Gerber\PCB1.REP
+DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.TXT
+DocumentPath=Project Outputs for Field_control\Gerber\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).csv
+DocumentPath=Project Outputs for Field_control\NC Drill\PCB1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).txt
+DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1(JLC_PCB).csv
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).csv
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1(Populated).txt
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SIZE
-Value=A3
+Name=AP
+Value=NH
 
 [Parameter2]
-Name=REV
-Value=0
-
-[Parameter3]
 Name=PN
 Value=FC-4W-7E-000
 
+[Parameter3]
+Name=REV
+Value=0
+
 [Parameter4]
-Name=AP
-Value=NH
+Name=SIZE
+Value=A3
 
 [Configuration1]
 Name=Sources
