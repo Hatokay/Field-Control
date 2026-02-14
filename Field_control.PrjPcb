@@ -150,6 +150,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=CM5.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PLJXEFTC
+
 [ProjectVariant1]
 UniqueID=E60A9464-C6FB-4925-9E6A-00077B935DD2
 Description=Populated
@@ -300,20 +317,20 @@ DocumentPath=Project Outputs for Field_control\Pick Place\Pick Place for PCB1.tx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AP
-Value=NH
-
-[Parameter2]
-Name=PN
-Value=FC-4W-7E-000
-
-[Parameter3]
-Name=REV
-Value=0
-
-[Parameter4]
 Name=SIZE
 Value=A3
+
+[Parameter2]
+Name=REV
+Value=1
+
+[Parameter3]
+Name=PN
+Value=FC-4W-7E-001
+
+[Parameter4]
+Name=AP
+Value=NH
 
 [Configuration1]
 Name=Sources

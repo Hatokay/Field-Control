@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+12V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Added Component: Designator=J3(XHFB9500G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "XFHB9500G"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+12V Pin=J3-2
+Add Class Member: Failed to add class member : Component * Tital_block_1
